@@ -1,4 +1,4 @@
 vendor/
-templates_c/
-cache/
-uploads/
+templates_c/*
+cache/*
+uploads/*
